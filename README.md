@@ -1,6 +1,6 @@
 # Canal Expertos Tech
 
-**Vídeo tutorial:** https://www.youtube.com/channel/UCquY5bG2eZLKVOmM3bXJbjA  
+**Vídeo tutorial:** https://youtu.be/0HKAqjiZveE 
 **Redes Sociais:** https://linktr.ee/expertostech  
 
 # Tutorial API Rest - Java com Spring Boot
